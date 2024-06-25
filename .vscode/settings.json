@@ -1,0 +1,12 @@
+{
+    "advancedNewFile.exclude": {
+        "data": true,
+        "node_modules": true,
+        ".nuxt": true,
+        ".git": true,
+    },
+    "emmet.includeLanguages": {
+        "vue-html": "html"
+    },
+    "typescript.tsserver.enableTracing": true
+}
